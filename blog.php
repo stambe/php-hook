@@ -1,4 +1,5 @@
-<?PHP**
+<?PHP
+/**
  * Short description for file
  *
  * Long description for file (if any)...
@@ -24,7 +25,7 @@
  * @deprecated File deprecated in Release 2.0.0
  */
  
- echo "";
+ echo ";
 
 
 ?>
